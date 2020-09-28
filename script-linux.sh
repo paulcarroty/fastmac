@@ -1,1 +1,5 @@
-echo Edit script-linux.sh in your fastmac repo to auto-run commands in your linux instances
+# echo Edit script-linux.sh in your fastmac repo to auto-run commands in your linux instances
+while true
+    do
+    sleep 60 && echo ''
+    done
